@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players>
+  <player id="player_1">
+    <name>aaa</name>
+    <level>2</level>
+  </player>
+  <player id="player_2">
+    <name>aaa</name>
+    <level>1</level>
+  </player>
+  <player id="player_3">
+    <name>aaa</name>
+    <level>1</level>
+  </player>
+</players>

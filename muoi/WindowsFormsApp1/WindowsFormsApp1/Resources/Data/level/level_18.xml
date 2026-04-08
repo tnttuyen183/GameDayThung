@@ -1,0 +1,303 @@
+<level id = "18" x = "9" y ="8">
+	    	<items id = "wall">
+			<item>
+				<positionX>1</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>1</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>2</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>3</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>4</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>5</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>6</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>7</positionX>
+				<positionY>1</positionY>
+			</item>
+			<item>
+				<positionX>7</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>8</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>9</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>1</positionX>
+				<positionY>3</positionY>
+			</item>
+			<item>
+				<positionX>1</positionX>
+				<positionY>4</positionY>
+			</item>
+			<item>
+				<positionX>1</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>1</positionX>
+				<positionY>6</positionY>
+			</item>
+			<item>
+				<positionX>1</positionX>
+				<positionY>7</positionY>
+			</item>	
+			<item>
+				<positionX>2</positionX>
+				<positionY>7</positionY>
+			</item>	
+			<item>
+				<positionX>3</positionX>
+				<positionY>7</positionY>
+			</item>		
+			<item>
+				<positionX>4</positionX>
+				<positionY>7</positionY>
+			</item>	
+			 <item>
+				<positionX>5</positionX>
+				<positionY>7</positionY>
+			</item>
+			 <item>
+				<positionX>6</positionX>
+				<positionY>7</positionY>
+			</item>
+			 <item>
+				<positionX>6</positionX>
+				<positionY>8</positionY>
+			</item>
+			 <item>
+				<positionX>7</positionX>
+				<positionY>8</positionY>
+			</item>
+			 <item>
+				<positionX>8</positionX>
+				<positionY>8</positionY>
+			</item>
+			 <item>
+				<positionX>9</positionX>
+				<positionY>8</positionY>
+			</item>
+			 <item>
+				<positionX>9</positionX>
+				<positionY>7</positionY>
+			</item>
+			 <item>
+				<positionX>9</positionX>
+				<positionY>6</positionY>
+			</item>
+			 <item>
+				<positionX>9</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>9</positionX>
+				<positionY>4</positionY>
+			</item>
+<item>
+				<positionX>9</positionX>
+				<positionY>3</positionY>
+			</item>
+<item>
+				<positionX>5</positionX>
+				<positionY>6</positionY>
+			</item>
+<item>
+				<positionX>6</positionX>
+				<positionY>6</positionY>
+</item>	
+		<item>
+				<positionX>3</positionX>
+				<positionY>3</positionY>
+</item>	
+<item>
+				<positionX>3</positionX>
+				<positionY>4</positionY>
+</item>
+<item>
+				<positionX>5</positionX>
+				<positionY>3</positionY>
+</item>
+
+<item>
+				<positionX>5</positionX>
+				<positionY>4</positionY>
+</item>
+<item>
+				<positionX>7</positionX>
+				<positionY>4</positionY>
+</item>
+
+
+		</items>
+		<items id = "grass">
+			<item>
+				<positionX>2</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>4</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>5</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>2</positionX>
+				<positionY>3</positionY>
+			</item>
+			<item>
+				<positionX>2</positionX>
+				<positionY>4</positionY>
+			</item>
+			<item>
+				<positionX>2</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>2</positionX>
+				<positionY>6</positionY>
+			</item>
+			<item>
+				<positionX>3</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>4</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>5</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>6</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>7</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>8</positionX>
+				<positionY>5</positionY>
+			</item>
+			<item>
+				<positionX>3</positionX>
+				<positionY>6</positionY>
+			</item>
+			<item>
+				<positionX>4</positionX>
+				<positionY>6</positionY>
+			</item>
+			<item>
+				<positionX>7</positionX>
+				<positionY>6</positionY>
+			</item>
+			<item>
+				<positionX>8</positionX>
+				<positionY>6</positionY>
+			</item>
+			<item>
+				<positionX>7</positionX>
+				<positionY>7</positionY>
+			</item>
+			<item>
+				<positionX>8</positionX>
+				<positionY>7</positionY>
+			</item>
+<item>
+				<positionX>8</positionX>
+				<positionY>4</positionY>
+			</item>
+			<item>
+				<positionX>6</positionX>
+				<positionY>4</positionY>
+			</item>
+			<item>
+				<positionX>4</positionX>
+				<positionY>4</positionY>
+			</item>
+			 <item>
+				<positionX>6</positionX>
+				<positionY>3</positionY>
+			</item>
+			<item>
+				<positionX>7</positionX>
+				<positionY>3</positionY>
+			</item>
+
+		
+		</items>
+		<items id = 'destination'>
+			<item>
+				<positionX>3</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>6</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>4</positionX>
+				<positionY>3</positionY>
+			</item>
+			<item>
+				<positionX>8</positionX>
+				<positionY>3</positionY>
+			</item>
+			
+		</items>
+		<items id = 'box'>
+			<item>
+				<positionX>5</positionX>
+				<positionY>2</positionY>
+			</item>
+			<item>
+				<positionX>6</positionX>
+				<positionY>4</positionY>
+			</item>
+			<item>
+				<positionX>8</positionX>
+				<positionY>4</positionY>
+			</item>
+			<item>
+				<positionX>5</positionX>
+				<positionY>5</positionY>
+			</item>
+
+
+		</items>
+		<items id = 'character'>
+			<item>
+				<positionX>7</positionX>
+				<positionY>3</positionY>
+			</item>
+		</items>
+	</level>
+
+
+
